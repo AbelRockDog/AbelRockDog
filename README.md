@@ -4,4 +4,4 @@ I have absolutely no idea what I'm doing. If you end up using anything I've made
 
 The things I do make are most likely really shitty plugins for SCP: Secret Laboratory; it's the only way I was able to force myself to learn C#.
 
-My discord is AbelLycanroc if you would like to submit any feedback.
+My discord is AbelLycanroc if you would like to contact me and/or submit any feedback.
